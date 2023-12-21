@@ -1,0 +1,3 @@
+student_0;0;bf231
+student_1;47;bf231
+student_2;8;bf231
